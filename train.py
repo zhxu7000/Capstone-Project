@@ -22,8 +22,6 @@ if __name__ == "__main__":
     """ Remove folders and files """
     # os.system("rm files/files.csv")
     # os.system("rm -r logs")
- #im zhenke xu 
- #dfdf
     """ Hyperparameters """
     input_shape = (256, 256, 3)
     batch_size = 8
